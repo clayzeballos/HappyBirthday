@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\gider\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_8a69f27dee7b1be7230710a46688813555285178\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="53cbc931c961897b3b8ac9e5086b94f8e073c3d8">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b57f2c63bb17e204a7126a49d73af064fdf2d37f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="77d91521403f37482d439f67afffa1cc0f8b8075">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_df2a53981c60dad84614c892ab14d61264bc5cb0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_11dc158038c383d414713c0be08bdc1ab75c8381\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_aa86fee692a57e0bca30c27927f3a9e77fbe8646\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_a4c2b868d21e37d63f3b74c65e02b3404ccaedf9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_7f624094c0116e376ce98f6bd8212ea85bcfc844\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\gider\Documents\GitHub\AndroidStudioProjects\HappyBirthday\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_79341febd93df5b9f0d7a872e50524293845f278\classes.dex" />
+    </item>
+
+</items>
